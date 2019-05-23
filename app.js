@@ -56,7 +56,8 @@ function getEmployees() {
         { id: 3, name: 'Alef Bogale',    salary: 65000,   departmentId: 2 }, 
         { id: 4, name: 'Jane Fox',       salary: 100000,  departmentId: 2 }, 
         { id: 5, name: 'Marie Curie',    salary: 40000,   departmentId: 3 }, 
-        { id: 6, name: 'Wendy Day',      salary: 45000,   departmentId: 3 }
+        { id: 6, name: 'Wendy Day',      salary: 45000,   departmentId: 3 },
+        { id: 7, name: 'Beyonce',        salary: 45000,   departmentId: 3 }
      ];
 }
 
